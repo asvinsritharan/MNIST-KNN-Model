@@ -7,4 +7,4 @@ A K Nearest Neighbours model is used for classification of the images.
 
 It will take a while to create the model, which then will be saved to a file called knn_model in the working directory.
 
-The saved file can then be opening and used to predict labels for new images of numbers that are to be classified without going through the process of setting up the MNIST dataset into a numpy matrix which is readable by the model.
+The saved file can then be opening and used to predict labels for new images of numbers that are to be classified without going through the process of setting up the MNIST dataset into a numpy matrix which is readable by the model. This is done so I don't have to go through the hassle of processing the data again while using an i5 2500k in 2020.
